@@ -14,6 +14,7 @@ organized? How would branches help?
 A:testing new features, trying out new things. If a more fundamental change is tested, no need to break the whole project, a branch can separate it from the main project road.
 
 Q:How do the diagrams help you visualize the branch structure?
+A:helps seeing reachable states, branches, good branch names will help maintaining the project.
 
 Q:What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
