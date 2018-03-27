@@ -11,6 +11,7 @@ A:make the change, check staging area, if the change is ready, commit. check oft
 
 Q:What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+A:testing new features, trying out new things. If a more fundamental change is tested, no need to break the whole project, a branch can separate it from the main project road.
 
 Q:How do the diagrams help you visualize the branch structure?
 
