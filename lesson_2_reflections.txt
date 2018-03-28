@@ -22,3 +22,4 @@ A:separate changes can be combed together. The diagram shows relationships betwe
 
 Q:What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+A:automatic merging has it's practical limitations. but there is a reasonable limit until where it's pretty straightforward which version should stay, change, go.
