@@ -13,6 +13,7 @@ A: fork is a clone of a repository on github. Clone is a copy of a whole reposit
 
 Q:What is the benefit of having a copy of the last known state of the remote
 stored locally?
+A: merging differences are easier. If we had only the local branch, merging with remote would be more steps including interactions between local and remote branches. This way most of the conflicts can be resolved on local machine and remote can be updated. Only one local-remote connection to update the local repository and only one local-remote connection to update the remote repository after merging locally.
 
 Q:How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
