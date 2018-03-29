@@ -1,9 +1,11 @@
 lesson 3 reflections, created on github
 Q:When would you want to use a remote repository rather than keeping all your work
 local?
+A: it is a great way to back up remotely. Also if multiple people work on the same project it's probably better to keep a separate main version.
 
 Q:Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
+A: if others collaborate, it can cause collisions.
 
 Q:Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
