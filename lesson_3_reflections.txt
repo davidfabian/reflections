@@ -17,6 +17,7 @@ A: merging differences are easier. If we had only the local branch, merging with
 
 Q:How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+A:depending on the size of the project, things could be easier of harder. I imagine a solo or two people project might be easier to track and manage without github, but the bigger the project gets, the more helpful git and github might become.
 
 Q:When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
